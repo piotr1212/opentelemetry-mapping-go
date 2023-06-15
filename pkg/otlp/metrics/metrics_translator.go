@@ -30,8 +30,8 @@ import (
 
 	"github.com/DataDog/opentelemetry-mapping-go/pkg/otlp/attributes"
 	"github.com/DataDog/opentelemetry-mapping-go/pkg/otlp/attributes/source"
-	"github.com/DataDog/opentelemetry-mapping-go/pkg/otlp/metrics/internal/instrumentationlibrary"
-	"github.com/DataDog/opentelemetry-mapping-go/pkg/otlp/metrics/internal/instrumentationscope"
+	"github.com/piotr1212/opentelemetry-mapping-go/pkg/otlp/metrics/internal/instrumentationlibrary"
+	"github.com/piotr1212/opentelemetry-mapping-go/pkg/otlp/metrics/internal/instrumentationscope"
 	"github.com/DataDog/opentelemetry-mapping-go/pkg/quantile"
 )
 

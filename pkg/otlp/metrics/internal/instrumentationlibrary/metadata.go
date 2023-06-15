@@ -17,7 +17,7 @@ package instrumentationlibrary
 import (
 	"go.opentelemetry.io/collector/pdata/pcommon"
 
-	"github.com/DataDog/opentelemetry-mapping-go/pkg/otlp/metrics/internal/utils"
+	"github.com/piotr1212/opentelemetry-mapping-go/pkg/otlp/metrics/internal/utils"
 )
 
 const (
