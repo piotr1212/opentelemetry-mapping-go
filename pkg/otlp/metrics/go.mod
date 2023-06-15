@@ -1,4 +1,4 @@
-module github.com/DataDog/opentelemetry-mapping-go/pkg/otlp/metrics
+module github.com/piotr1212/opentelemetry-mapping-go/pkg/otlp/metrics
 
 go 1.19
 
